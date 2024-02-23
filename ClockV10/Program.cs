@@ -12,6 +12,8 @@ namespace ClockV10
             Console.WriteLine();
             Console.WriteLine("Press any key to close the program...");
 
+            Console.WriteLine("Hello");
+
             Console.ReadKey();
         }
     }
